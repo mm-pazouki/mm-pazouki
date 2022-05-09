@@ -1,4 +1,4 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mm-pazouki&show_icons=true&locale=en&repo=convoychat&theme=vue" width="50%"
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mm-pazouki&show_icons=true&locale=en&repo=convoychat&theme=vue" width="55%"
     alt="mm-pazouki" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm-pazouki&show_icons=true&theme=vue"  width="37%" alt="Pazouki's Top Languages">
 <h3 align="left">Connect with me:</h3>
