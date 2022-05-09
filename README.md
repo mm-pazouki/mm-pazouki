@@ -1,6 +1,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mm-pazouki&show_icons=true&locale=en&repo=convoychat&theme=vue" width="50%"
     alt="mm-pazouki" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm-pazouki&show_icons=true&theme=vue"  width="30%" alt="Pazouki's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm-pazouki&show_icons=true&theme=vue"  width="49%" alt="Pazouki's Top Languages">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-mehdi-pazouki/" target="blank"><img align="center"
